@@ -18,7 +18,7 @@ Includes a tkinter GUI for batch conversion.
 Usage
 Make sure that all the requirements are satisfied -
 
-Python3
+Python3 & 
 xlsxwriter
 
 CLI: (Single file conversion)

@@ -30,5 +30,5 @@ Type the path to the CSV files folder, or select the folder by browsing.
 Select whether or not the first line of the CSV is a header.
 
 Note:
-Press convert and wait. The script may take some time depending on how much files are being converted.
+Press convert and wait. The script may take some time depending on how many files are being converted.
 Logs are stored inside the logs/ directory, and the output is stored inside the output/ directory.

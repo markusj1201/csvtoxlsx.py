@@ -1,5 +1,5 @@
 # csvtoxlsx.py
-py.script to convert csv to xlsx (CLI + GUI)
+Python scriptt to convert csv to xlsx (CLI + GUI)
 
 PythonCSVtoXLSX (CLI + GUI)
 Python script to convert CSV to XLSX.
